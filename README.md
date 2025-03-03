@@ -1,6 +1,6 @@
 # _foodwebsite_
 
-#### _This project is a food website _
+#### _This project is a food website_
 
 #### By _**Abdul baqi Adigun**_
 
